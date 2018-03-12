@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/thodorisbais/credit-card-expiry-validator.git"
   },
-  "keywords": [],
+  "keywords": ["credit card", "validator", "payments", "expiry", "date"],
   "author": "Thodoris Bais <thodoris.bais@gmail.com> (http://twitter.com)",
   "license": "Apache-2.0",
   "bugs": {
