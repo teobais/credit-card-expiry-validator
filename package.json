@@ -1,6 +1,6 @@
 {
   "name": "credit-card-expiry-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validate credit card's expiry date",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/thodorisbais/credit-card-expiry-validator.git"
   },
-  "keywords": ["credit card", "validator", "payments", "expiry", "date"],
+  "keywords": [
+    "credit card",
+    "validator",
+    "payments",
+    "expiry",
+    "date"
+  ],
   "author": "Thodoris Bais <thodoris.bais@gmail.com> (http://twitter.com)",
   "license": "Apache-2.0",
   "bugs": {
