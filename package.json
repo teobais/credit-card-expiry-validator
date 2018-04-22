@@ -1,6 +1,6 @@
 {
   "name": "credit-card-expiry-validator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Validate credit card's expiry date",
   "main": "index.js",
   "scripts": {
